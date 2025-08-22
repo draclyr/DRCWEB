@@ -13,7 +13,6 @@
 </div>
 
 <div align="center">
-<h3 text-align="center">Can we showcase our projects on this resume website?😻</h3>
 <p>In this template, movies and TV series are organized into clearly defined categories. The official version of the template is fully responsive across all devices, including mobile and desktop😏:</p>
 <img src="./img/pic3.png">
 </div>
